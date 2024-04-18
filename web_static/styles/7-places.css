@@ -1,0 +1,27 @@
+.places article h2 {
+	width: 390px;
+	margin: 20px;
+	padding: 20px;
+	border-radius: 4px;
+	text-align: center;
+	display: inline-block;
+}
+.places article .home_house {
+	border-top: 1px solid RGB(255, 90, 95, 0.8);
+	border-bottom: 1px solid RGB(255, 90, 95, 0.3);
+	border-right: solid RGB(255, 90, 95, 0.3);
+	border-left: solid RGB(255, 90, 95, 0.3);
+}
+.places article .suite {
+	border: 1px solid RGB(255, 90, 95, 0.3);
+}
+}
+.places h1 {
+	font-size: 30px;
+}
+.places article {
+	text-align: center;
+}
+.places article h2 {
+	font-size: 30px;
+}
